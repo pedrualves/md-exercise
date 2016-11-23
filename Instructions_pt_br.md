@@ -1,13 +1,14 @@
 # Instructions
 
-1. fork do projeto https://github.com/PadawanTeam/md-exercise
+1. Faça a fork do projeto pelo github : https://github.com/PadawanTeam/md-exercise
 
-2. dentro do projeto forkado (conferir a URL!),copie a url do projeto git:
+2. dentro do projeto forkado (Ele estará agora no seu usuário, como se fosse o original),copie a url do seu projeto git:
+Observe que o md-exercise.git foi mantido e está em cada um dos usuários do projeto apos o fork!!
 	https://github.com/zuthori/md-exercise.git
 	https://github.com/weltonavila/md-exercise.git
 	https://github.com/fsalencar/md-exercise.git
 
-3. clonar o projeto através do comando: git clone <URL>
+3. clonar o projeto através do comando: git clone <URL> (Utilize a URL do SEU PROJETO, mostrado no passo anterior, obtida após o fork)
 
 4. dentro da pasta do projeto clonado crie um novo arquivo markdown: Padawan_seuGitUser.md
 
