@@ -1,63 +1,24 @@
-This exercise has been copied from:
+# Informações do Padawan
+## Weverton Reis
 
-[https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+###[Meu git](https://github.com/wevertonsreis)
 
-# Rustic Markdown Exercise
+## Resumo
 
-## Padawans
+Formado em Sistemas de Informação, atuo na área de desenvolvimento de aplicações Java web desde 2013, com conhecimento nas tecnologias Struts 1.x, JSF 2, PrimeFaces, Hibernate, JPA, JUnit, Maven, JavaScript/JQuery, HTML, CSS, XSL, relatórios com Jasper Reports, banco de dados SQL Server, DB2, MySQL, Oracle e desenvolvimento ágil SCRUM.
 
-### We need
+| Empresas que trabalhei como dev       |
+| ------------- |
+| Scale Systens      |
+| Magna Sistemas      |
 
-#### To pratice
-
-##### more github
-
-###### and more markdown!!
-
-Alternative Title
-=================
-
-More one alternative title
---------------------------
-
-How to use italic *asterisks* or _underscores_.
-
-How to use bold **asterisks** or __underscores__.
-
-Merged italic and bold **asterisks and _underscores_**.
-
-Strikethrough uses two tildes. ~~Scratch this.~~
-
-* and here
-* a simple example
-* of unordered list
-
-1. and here
-2. a simple example
-3. of ordered list
-
-[link to web](https://www.google.com)
-
-```javascript
-//example with javascript code
-var s = "JavaScript syntax highlighting";
-alert(s);
-```
-
-| And        | here           | table  |
-| ------------- |:-------------:| -----:|
-| simple      | rustic | example |
-| simple      | rustic | example |
-| simple      | rustic | example |
-
-
-> And simple rustic example of Blockquotes
-
-and 
-
----
-here
-***
-some
-___
-lines
+| Projetos trabalhei como dev       | 
+| ------------- |
+| Jogos Educacionais      |
+| Kinoplex - WebService      |
+| Cinemark Intranet - Salas D-BOX      |
+| Kinoplex Intranet - Cota de Tela      |
+| Kinoplex Intranet - Módulo Financeiro      |
+| Controle de Boletos e Remessas Bancárias     |
+| Sistema de Pagamento de Advogados - Migração Servidor de Aplicação     |
+| Sistema de Pagamento de Advogados – Migração Framework     |
