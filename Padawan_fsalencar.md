@@ -12,4 +12,4 @@ Um analista de sistemas que desde a faculdade se interessava por programação, 
 Agora, estudando de programação, quer adquirir o conhecimento Padawan para se tornar um **Jedi programador**!.
 
 
-'<Teste>' vamos ver!
+`<Teste>` vamos ver!
