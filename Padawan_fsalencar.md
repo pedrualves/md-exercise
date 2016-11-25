@@ -25,7 +25,7 @@ Agora, estudando de programação, quer adquirir o conhecimento Padawan para se 
 
 * Stefanini (projeto Caixa - SICUC)
 * Capgemini (projeto Caixa - IBC)
-* Stefanini (rojeto Cielo - Trilha do Site Cielo)
+* Stefanini (projeto Cielo - Trilha do Site Cielo)
 
 
 
