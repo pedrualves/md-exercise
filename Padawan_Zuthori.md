@@ -1,19 +1,13 @@
 # Padawan
-
 ---
-
 ## **Danilo Almeida**
-
 ---
-
 ### Meu Github: [Zuthori](https://github.com/zuthori)
-
 ---
-
 ## Informações:
 
 Tenho 21 anos e moro em embu city, cursando analise e desenvolvimento de sistemas no SENAC e trabalho na DPSP filial embu city.
-
+---
 Animes que já assisti:
 
 | Animes | Número de ep |
@@ -22,7 +16,7 @@ Animes que já assisti:
 | Naruto Shippuden | 480 |
 | Death note | 36 |
 | Full Metal | Tentando assistir |
-
+---
 ### Empresas que trabalhei
 
 1. Carbox Racing
