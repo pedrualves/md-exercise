@@ -19,7 +19,7 @@ Animes que já assisti:
 | Animes | Número de ep |
 | Bleach | 366 |
 | Naruto | 220 |
-|Naruto Shippuden | 480 |
+| Naruto Shippuden | 480 |
 | Death note | 36 |
 | Full Metal | Tentando assistir |
 
